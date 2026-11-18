@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+minhas_anotacoes.txt
+dados_exercicio.json
